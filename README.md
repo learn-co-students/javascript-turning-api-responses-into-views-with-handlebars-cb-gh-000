@@ -288,8 +288,3 @@ In this lesson we reviewed getting data via XHR, and using that data to
 manipulate the DOM. Then we saw how powerful it is to pair Handlebars
 templates with XHR to create dynamic web applications, and how we can use these tools to adhere to
 separation of concerns and write modular, well-organized code.
-
-## Resources
-
-- [Handlebars](http://handlebarsjs.com/)
-- [MDN: AJAX](https://developer.mozilla.org/en-US/docs/AJAX)
