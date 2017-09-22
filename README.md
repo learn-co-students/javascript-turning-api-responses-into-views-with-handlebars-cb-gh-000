@@ -7,7 +7,7 @@ Turning API Responses into Views with Handlebars
 2. Review writing and using Handlebars templates
 3. Use Handlebars to update the DOM
 
-## Introduction
+## Introduction#
 
 When we use XHR to make dynamic web applications, we often need to
 manipulate the DOM in repeatable, reusable chunks, keeping the same
