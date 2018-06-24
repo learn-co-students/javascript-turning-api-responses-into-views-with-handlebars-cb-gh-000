@@ -1,4 +1,4 @@
-Turning API Responses into Views with Handlebars
+iTurning API Responses into Views with Handlebars
 ---
 
 ## Objectives
